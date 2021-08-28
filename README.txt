@@ -1,0 +1,1 @@
+mingw32-make for running the command 
